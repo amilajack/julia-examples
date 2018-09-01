@@ -3,7 +3,3 @@ language: julia
 julia:
   - nightly
   - 0.7
-
-matrix:
-  allow_failures:
-    - julia: nightly
