@@ -1,0 +1,8 @@
+name = "JuliaExample"
+uuid = "9703dcb4-ae36-11e8-17a7-276b0b8aac3a"
+authors = ["Amila Welihinda <amilajack@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+RowEchelon = "af85af4c-bcd5-5d23-b03a-a909639aa875"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
